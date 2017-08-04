@@ -61,7 +61,7 @@ a:focus {
 }
 .navbar-custom .navbar-toggle {
   color: white;
-  background-color: #7f73a0;
+  background-color: white;
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:focus,
@@ -83,7 +83,7 @@ a:focus {
   transition: background 0.3s ease-in-out;
 }
 .navbar-custom .nav li a:hover {
-  color: #7f73a0;
+  color: white;
   outline: none;
   background-color: transparent;
 }
