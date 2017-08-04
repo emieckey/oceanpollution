@@ -77,8 +77,9 @@ a:focus {
 
 
 .navbar-custom a {
-  color: #9b92b4;
+  color: white;
 }
+
 .navbar-custom .nav li a {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
