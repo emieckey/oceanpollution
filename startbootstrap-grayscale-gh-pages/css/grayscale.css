@@ -85,10 +85,12 @@ a:focus {
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
 }
+
+<!--- RECTANGLES--->
 .navbar-custom .nav li a:hover {
   color: white;
   outline: none;
-  background-color: red;
+  background-color: #9b92b4;
 }
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
