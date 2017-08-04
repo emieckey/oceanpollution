@@ -99,10 +99,11 @@ a:focus {
   outline: none;
 }
 
-
+<!----color of menu bar rectanges ---->
 .navbar-custom .nav li.active a {
   background-color: #9b92b4;
 }
+
 .navbar-custom .nav li.active a:hover {
   color: white;
 }
@@ -176,7 +177,7 @@ a:focus {
 .btn-circle:focus {
   outline: none;
   color: white;
-  background: #7f73a0;
+  background: transparent;
 }
 .btn-circle i.animated {
   -webkit-transition-property: -webkit-transform;
