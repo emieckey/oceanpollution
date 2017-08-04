@@ -74,8 +74,10 @@ a:focus {
 .navbar-custom .navbar-brand:focus {
   outline: none;
 }
+
+
 .navbar-custom a {
-  color: white;
+  color: #9b92b4;
 }
 .navbar-custom .nav li a {
   -webkit-transition: background 0.3s ease-in-out;
