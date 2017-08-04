@@ -96,7 +96,7 @@ a:focus {
   outline: none;
 }
 .navbar-custom .nav li.active a {
-  background-color: #9b92b4;
+  background-color: #c0bad0;
 }
 .navbar-custom .nav li.active a:hover {
   color: white;
