@@ -75,7 +75,7 @@ a:focus {
   outline: none;
 }
 
-<!----color of menu bar ---->
+<!----color of menu bar words ---->
 .navbar-custom a {
   color: white;
 }
@@ -98,8 +98,10 @@ a:focus {
 .navbar-custom .nav li.active {
   outline: none;
 }
+
+
 .navbar-custom .nav li.active a {
-  background-color: #c0bad0;
+  background-color: #9b92b4;
 }
 .navbar-custom .nav li.active a:hover {
   color: white;
