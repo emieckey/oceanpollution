@@ -119,7 +119,7 @@ a:focus {
   }
   .navbar-custom.top-nav-collapse {
     padding: 0;
-    background: gray;
+    background: black;
     border-bottom: 1px solid #7f73a0;
   }
 }
