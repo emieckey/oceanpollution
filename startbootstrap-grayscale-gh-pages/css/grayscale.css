@@ -54,14 +54,14 @@ a:focus {
 }
 .navbar-custom {
   margin-bottom: 0;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+  border-bottom: 1px solid #7f73a0;
   text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   background-color: light blue;
 }
 .navbar-custom .navbar-toggle {
   color: white;
-  background-color: rgba(255, 255, 255, 0.2);
+  background-color: #7f73a0;
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:focus,
@@ -83,7 +83,7 @@ a:focus {
   transition: background 0.3s ease-in-out;
 }
 .navbar-custom .nav li a:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: #7f73a0;
   outline: none;
   background-color: transparent;
 }
@@ -114,7 +114,7 @@ a:focus {
   .navbar-custom.top-nav-collapse {
     padding: 0;
     background: black;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    border-bottom: 1px solid #7f73a0;
   }
 }
 .intro {
@@ -171,7 +171,7 @@ a:focus {
 .btn-circle:focus {
   outline: none;
   color: white;
-  background: rgba(255, 255, 255, 0.1);
+  background: #7f73a0;
 }
 .btn-circle i.animated {
   -webkit-transition-property: -webkit-transform;
