@@ -220,11 +220,12 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
+<!---PIC--->
 .download-section {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background-color: red;
+  background-color: #7f73a0;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
