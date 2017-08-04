@@ -39,7 +39,7 @@ p {
   }
 }
 a {
-  color: white;
+  color: #42DCA3;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -47,21 +47,21 @@ a {
 a:hover,
 a:focus {
   text-decoration: none;
-  color: white;
+  color: #1d9b6c;
 }
 .light {
   font-weight: 400;
 }
 .navbar-custom {
   margin-bottom: 0;
-  border-bottom: 1px solid #7f73a0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   text-transform: uppercase;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  background-color: gray;
+  background-color: light blue;
 }
 .navbar-custom .navbar-toggle {
   color: white;
-  background-color: white;
+  background-color: rgba(255, 255, 255, 0.2);
   font-size: 12px;
 }
 .navbar-custom .navbar-toggle:focus,
@@ -74,23 +74,18 @@ a:focus {
 .navbar-custom .navbar-brand:focus {
   outline: none;
 }
-
-<!----color of menu bar words ---->
 .navbar-custom a {
   color: white;
 }
-
 .navbar-custom .nav li a {
   -webkit-transition: background 0.3s ease-in-out;
   -moz-transition: background 0.3s ease-in-out;
   transition: background 0.3s ease-in-out;
 }
-
-<!--- RECTANGLES--->
 .navbar-custom .nav li a:hover {
-  color: white;
+  color: rgba(255, 255, 255, 0.8);
   outline: none;
-  background-color: #9b92b4;
+  background-color: transparent;
 }
 .navbar-custom .nav li a:focus,
 .navbar-custom .nav li a:active {
@@ -100,12 +95,9 @@ a:focus {
 .navbar-custom .nav li.active {
   outline: none;
 }
-
-<!----color of menu bar rectanges ---->
 .navbar-custom .nav li.active a {
-  background-color: #9b92b4;
+  background-color: rgba(255, 255, 255, 0.3);
 }
-
 .navbar-custom .nav li.active a:hover {
   color: white;
 }
@@ -119,12 +111,10 @@ a:focus {
     -moz-transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
     transition: background 0.5s ease-in-out, padding 0.5s ease-in-out;
   }
-  
-  <!----color of entire menu bar ---->
   .navbar-custom.top-nav-collapse {
     padding: 0;
-    background: #7f73a0;
-    border-bottom: 1px solid #7f73a0;
+    background: black;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
   }
 }
 .intro {
@@ -135,7 +125,7 @@ a:focus {
   text-align: center;
   color: white;
   background: url(https://media.giphy.com/media/3ySDpSG7aVntC/giphy.gif) no-repeat bottom center scroll;
-  background-color: #9b92b4;
+  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -181,7 +171,7 @@ a:focus {
 .btn-circle:focus {
   outline: none;
   color: white;
-  background: transparent;
+  background: rgba(255, 255, 255, 0.1);
 }
 .btn-circle i.animated {
   -webkit-transition-property: -webkit-transform;
