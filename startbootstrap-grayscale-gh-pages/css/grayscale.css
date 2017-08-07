@@ -97,7 +97,7 @@ a:focus {
   outline: none;
 }
 .navbar-custom .nav li.active a {
-  background-color: rgba(192, 186, 208);
+  background-color: #C0BAD0;
 }
 .navbar-custom .nav li.active a:hover {
   color: white;
