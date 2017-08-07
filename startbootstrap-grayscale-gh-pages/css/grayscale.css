@@ -225,7 +225,7 @@ a:focus {
   width: 100%;
   padding: 50px 0;
   color: white;
-  background-color: #6c5f91;
+  background-color: rgba(108, 95, 145, 0.77);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
