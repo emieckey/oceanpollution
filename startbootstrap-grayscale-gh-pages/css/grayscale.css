@@ -226,6 +226,10 @@ a:focus {
   padding: 50px 0;
   color: white;
   background-color: #665b85;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
 }
 #map {
   width: 100%;
