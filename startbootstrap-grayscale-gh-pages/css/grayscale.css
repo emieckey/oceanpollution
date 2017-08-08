@@ -235,6 +235,7 @@ a:focus {
 .data-section {
   width: 100%;
   padding: 50px 0;
+  margin: 0;
   color: white;
   background-color: rgba(108, 95, 145, 0.77);
   -webkit-background-size: cover;
@@ -252,9 +253,6 @@ a:focus {
     padding-top: 250px;
   }
   .download-section {
-    padding: 100px 0;
-  }
-  .data-section {
     padding: 100px 0;
   }
   #map {
