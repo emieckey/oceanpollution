@@ -242,7 +242,17 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
-
+.data-section1 {
+    width: 100%;
+    padding: 50px 0;
+    color: white;
+/*     background: url(http://data.whicdn.com/images/233083575/original.gif) no-repeat center center scroll; */
+    background-color: black;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
 #map {
   width: 100%;
   height: 200px;
