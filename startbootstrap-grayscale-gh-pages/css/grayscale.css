@@ -249,6 +249,8 @@ a:focus {
     height: 400px;
     margin-top: 250px;
   }
+  .game-section {
+    padding-bottom: 100px;
 }
 .btn {
   text-transform: uppercase;
